@@ -1,0 +1,10 @@
+---
+layout: post
+title: What is an Operating System?
+---
+
+An operating system is like an office assistant. They run errands for you and you don't have to worry about how its done. Can you build systems without any OS? Of course, this would mean you understand how the keyboard works and write code for getting the input, you understand how display works and write code for showing pixels etc. And utilmately tie these together and write the end application you wanted. And if you want two applications to run in parallel, good luck designing that.
+
+Let's take an example to understand this better. How about a calculator. If I were to build a calculator, I would not need an operating system, because it has only one purpose - to get the input, calculate and then print the output, in fact most of these would be hard wired with little or no software running. The idea of software is to have the flexibility to modify functionality without changing hardware. If we want to build a bigger system which can be used by other people to modify it for their interest by adding software, then the common functionalities like input/output (IO) would have to be bundled into libraries of code so that they do not have to bother with handling the intrinsic details of that hardware. This still does not necessitate an operating system strictly. But it would be easier to have a framework that initializes the system and helps the user to access the IO with simple protocols than the one the hardware provides. Moreover, if the protocol is made universally same i.e. it is same on device X by company Y and on device A by company B, then his software can be run both the devices without changing it. Operating systems are nothing but softwares that provide hardware abstractions.
+
+Fast forward to the present, the needs of the device are vast and complicated. Multitasking, multiuser, networking and security are major drivers for having an operating system. Let's take each one and have a little closer look. Multitasking - implies multiple applications run at the same time.
