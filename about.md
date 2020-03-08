@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I am yet another techie in the silicon valley. Making a blog about my experience kind of motivates me to be disciplined and learn more. The content in my blog are my perspective of things and maybe not be factually correct, so take it with a pinch of salt. To be honest, there is nothing that is absolute in this world; the advise applies to all things.
+My motivation for blogging is learning. I'm into building embedded systems and operating systems and blogging about it makes me happy. I try to give equal importance to my mind and body and I keep myself fit by working out and hiking. This blog is my space to create and think freely. Hope you enjoy my writing.
+
+-Puma
